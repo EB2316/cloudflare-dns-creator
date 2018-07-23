@@ -1,3 +1,5 @@
+# Unmaintained repository, officially archived July 23, 2018. You are free to fork this project at any time.
+
 # cloudflare-dns-creator
 
 A simple PHP script to create DNS records using the Cloudflare PHP API.
